@@ -1,0 +1,7 @@
+boto3
+sagemaker
+yfinance
+scikit-learn
+pandas
+streamlit
+joblib
